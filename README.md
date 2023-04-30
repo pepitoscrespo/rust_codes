@@ -11,7 +11,7 @@ The project has the following structure:
 rust_codes/
    Cargo.toml
    README.md
-   └── src/
+   src/
      -- main.rs
      -- sortFile.rs
 
